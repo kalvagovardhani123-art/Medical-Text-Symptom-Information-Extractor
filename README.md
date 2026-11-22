@@ -21,7 +21,6 @@ Structured Summary Table: Builds a list of dictionaries containing each extracte
 UI Rendering & Inspection: Gradio updates gr.HighlightedText (with combine_adjacent=True and show_legend=True) and gr.Dataframe (interactive=False) so users can visually inspect entities in context and review them systematically in a table.
 
 Pipeline Architecture
-Plaintext
 [Clinical Text Input / Sample Note]
                │
                ▼
